@@ -1,0 +1,8 @@
+.text li {
+    text-align: left;
+    color: red;
+    list-style-type: square;
+}
+h3 {
+    color: purple;
+}
